@@ -1,0 +1,3 @@
+region           = "cn-north-4"
+project_name     = "canary-demo"
+promote_canary   = false
